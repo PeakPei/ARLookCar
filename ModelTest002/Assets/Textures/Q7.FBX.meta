@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 97a5fe895e1df144ca4d99d21a768872
+timeCreated: 1502711450
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Audi_Q7
+    100002: Audi_Q7-Audi_Q7-INSIDE
+    100004: Audi_Q7-eng_ns
+    100006: Audi_Q7-F_Lights
+    100008: Audi_Q7-PART1
+    100010: Audi_Q7-PART2
+    100012: Audi_Q7-PART3
+    100014: Audi_Q7-PART4
+    100016: Audi_Q7-PART5
+    100018: Audi_Q7-PART6
+    100020: Audi_Q7-R_HL
+    100022: Audi_Q7-R_HR
+    100024: Audi_Q7-R_VR
+    100026: Audi_Q7-wiper_ns
+    100028: Box01
+    100030: Box06
+    100032: Box07
+    100034: Box08
+    100036: Box09
+    100038: Cylinder10
+    100040: Cylinder11
+    100042: Cylinder12
+    100044: Omni01
+    100046: Plane02
+    100048: Plane03
+    100050: Plane04
+    100052: //RootNode
+    100054: "VR\u9633\u514901.Target"
+    400000: Audi_Q7
+    400002: Audi_Q7-Audi_Q7-INSIDE
+    400004: Audi_Q7-eng_ns
+    400006: Audi_Q7-F_Lights
+    400008: Audi_Q7-PART1
+    400010: Audi_Q7-PART2
+    400012: Audi_Q7-PART3
+    400014: Audi_Q7-PART4
+    400016: Audi_Q7-PART5
+    400018: Audi_Q7-PART6
+    400020: Audi_Q7-R_HL
+    400022: Audi_Q7-R_HR
+    400024: Audi_Q7-R_VR
+    400026: Audi_Q7-wiper_ns
+    400028: Box01
+    400030: Box06
+    400032: Box07
+    400034: Box08
+    400036: Box09
+    400038: Cylinder10
+    400040: Cylinder11
+    400042: Cylinder12
+    400044: Omni01
+    400046: Plane02
+    400048: Plane03
+    400050: Plane04
+    400052: //RootNode
+    400054: "VR\u9633\u514901.Target"
+    2300000: Audi_Q7-Audi_Q7-INSIDE
+    2300002: Audi_Q7-eng_ns
+    2300004: Audi_Q7-F_Lights
+    2300006: Audi_Q7-PART1
+    2300008: Audi_Q7-PART2
+    2300010: Audi_Q7-PART3
+    2300012: Audi_Q7-PART4
+    2300014: Audi_Q7-PART5
+    2300016: Audi_Q7-PART6
+    2300018: Audi_Q7-R_HL
+    2300020: Audi_Q7-R_HR
+    2300022: Audi_Q7-R_VR
+    2300024: Audi_Q7-wiper_ns
+    2300026: Box01
+    2300028: Box06
+    2300030: Box07
+    2300032: Box08
+    2300034: Box09
+    2300036: Cylinder10
+    2300038: Cylinder11
+    2300040: Cylinder12
+    2300042: Plane02
+    2300044: Plane03
+    2300046: Plane04
+    3300000: Audi_Q7-Audi_Q7-INSIDE
+    3300002: Audi_Q7-eng_ns
+    3300004: Audi_Q7-F_Lights
+    3300006: Audi_Q7-PART1
+    3300008: Audi_Q7-PART2
+    3300010: Audi_Q7-PART3
+    3300012: Audi_Q7-PART4
+    3300014: Audi_Q7-PART5
+    3300016: Audi_Q7-PART6
+    3300018: Audi_Q7-R_HL
+    3300020: Audi_Q7-R_HR
+    3300022: Audi_Q7-R_VR
+    3300024: Audi_Q7-wiper_ns
+    3300026: Box01
+    3300028: Box06
+    3300030: Box07
+    3300032: Box08
+    3300034: Box09
+    3300036: Cylinder10
+    3300038: Cylinder11
+    3300040: Cylinder12
+    3300042: Plane02
+    3300044: Plane03
+    3300046: Plane04
+    4300000: Plane02
+    4300002: Plane03
+    4300004: Box01
+    4300006: Plane04
+    4300008: Box06
+    4300010: Box07
+    4300012: Cylinder10
+    4300014: Cylinder11
+    4300016: Box08
+    4300018: Box09
+    4300020: Cylinder12
+    4300022: Audi_Q7-R_HR
+    4300024: Audi_Q7-R_HL
+    4300026: Audi_Q7-R_VR
+    4300028: Audi_Q7-Audi_Q7-INSIDE
+    4300030: Audi_Q7-F_Lights
+    4300032: Audi_Q7-PART1
+    4300034: Audi_Q7-PART2
+    4300036: Audi_Q7-PART3
+    4300038: Audi_Q7-PART4
+    4300040: Audi_Q7-PART5
+    4300042: Audi_Q7-PART6
+    4300044: Audi_Q7-wiper_ns
+    4300046: Audi_Q7-eng_ns
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
